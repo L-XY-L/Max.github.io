@@ -13,5 +13,5 @@ address：LinQuan county, FuYang city, AnHui province
 
 ### <a class="nav-link" href="./Major.html">My major</a>[It involves my professional understanding.]
 
-### <a class="nav-link" href="./Sharing.html">About sharing</a>[
+### <a class="nav-link" href="./Sharing.html">About sharing</a>[Life to share]
 
