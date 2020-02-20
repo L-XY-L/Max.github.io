@@ -10,6 +10,7 @@ address：LinQuan county, FuYang city, AnHui province
 ### About me
 
 Academic situation:
+
 In June 2019, I experienced the first major turning point in my life - college entrance examination.Then in September 2019, I officially entered Wanli college and became a member of Wanli college.
 
 Character traits：
