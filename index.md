@@ -7,7 +7,7 @@ name:    Jun Li  (李俊）
 mailbox：LIWENBAISYsy@163.com
 
 address：LinQuan county, FuYang city, AnHui province
-### About me
+### About me <a class="nav-link" href="./About.html">About</a>
 
 Academic situation:
 
